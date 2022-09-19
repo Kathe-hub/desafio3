@@ -1,2 +1,5 @@
 # desafio3
-Desafio Igua Page,  para poner a prueba la propiedad display, float y html semantico
+
+Desafío Iguana Page con el objetivo de realizar Fork a proyecto de Miguel (compañero).
+
+-
